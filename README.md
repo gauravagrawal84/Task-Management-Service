@@ -44,7 +44,7 @@ A simple Spring Boot application for managing tasks using REST APIs. It supports
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/task-service.git
+   git clone https://github.com/gauravagrawal84/task.git
    cd task-service
    ```
 
