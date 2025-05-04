@@ -17,7 +17,7 @@ A simple Spring Boot application for managing tasks using REST APIs. It supports
   - Data resets every time the application restarts.
 
 - **Validation**:
-  - Basic input validation using `javax.validation` annotations.
+  - Basic input validation using `jakarta validation` annotations.
 
 - **Lombok**:
   - Reduces boilerplate code with annotations like `@Builder`, `@Getter`, `@Setter`, etc.
